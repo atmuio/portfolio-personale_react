@@ -18,13 +18,13 @@ Un portfolio personale moderno e interattivo realizzato con React. Presenta un d
 ## 🖼️ Screenshot
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x450/0070f3/FFFFFF?text=Home+Page)
+![Home Page](https://i.gyazo.com/7583496e384c75cbdc92155834ac3a0e.png)
 
 ### Sezione Competenze
-![Competenze](https://via.placeholder.com/800x450/6d28d9/FFFFFF?text=Pagina+Competenze)
+![Competenze](https://i.gyazo.com/27a9075113b08dc970244db6e7f7bc7f.mp4)
 
 ### Sezione Contatti
-![Contatti](https://via.placeholder.com/800x450/00c58e/FFFFFF?text=Pagina+Contatti)
+![Contatti](https://i.gyazo.com/6f656df24164180ffc9fd79a7a04053b.png)
 
 ## 🛠️ Tecnologie Utilizzate
 
