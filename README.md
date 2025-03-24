@@ -21,7 +21,7 @@ Un portfolio personale moderno e interattivo realizzato con React. Presenta un d
 ![Home Page](https://i.gyazo.com/7583496e384c75cbdc92155834ac3a0e.png)
 
 ### Sezione Competenze
-![Competenze](https://drive.google.com/file/d/1jeG0TWNJqwoaAzFsTLVCYYBWhj9GaUPz/view?usp=sharing)
+![Competenze](https://s6.gifyu.com/images/bzgI0.gif)
 
 ### Sezione Contatti
 ![Contatti](https://i.gyazo.com/6f656df24164180ffc9fd79a7a04053b.png)
