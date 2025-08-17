@@ -38,10 +38,10 @@ Un portfolio personale moderno e interattivo realizzato con React. Presenta un d
 
 ```bash
 # Clona il repository
-git clone https://github.com/yourusername/portfolio-react.git
+git clone https://github.com/atmuio/portfolio-personale_react.git
 
 # Entra nella directory
-cd portfolio-react
+cd portfolio-personale_react
 
 # Installa le dipendenze
 npm install
