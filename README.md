@@ -107,19 +107,9 @@ src/
   |- index.js          # Entry point
 ```
 
-## 🔗 Link alla Demo
-
-[Demo live del portfolio](https://your-portfolio-url.com)
 
 ## 📄 Licenza
 
 [MIT](LICENSE)
 
 ---
-
-### 👨‍💻 Sviluppato da [Il tuo nome]
-
-Connettiti con me:
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
